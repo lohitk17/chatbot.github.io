@@ -1,6 +1,6 @@
 # Chatbot Deployment with Flask, JavaScript, HTML and CSS.
 
-This Project is to deploy the chatbot in the collage websites, I created this with the help of Flask, JavaScript, HTML and CSS.
+This Project is to deploy the chatbot in the collage websites, I created this with the help of Flask, JavaScript, HTML and CSS..
 
                                                     _______________________________________
                                                     | This is how to deploy the chatBot :- |
